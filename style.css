@@ -1,0 +1,29 @@
+body {
+    font-family: Arial;
+    text-align: center;
+    background: #f3f3f3;
+}
+
+h1 {
+    color: purple;
+}
+
+#preview {
+    margin-top: 20px;
+}
+
+#preview img {
+    width: 120px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+button {
+    padding: 12px 20px;
+    margin-top: 20px;
+    background: purple;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
